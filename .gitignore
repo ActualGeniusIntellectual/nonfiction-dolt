@@ -15,3 +15,5 @@ Cargo.lock
 *.csv
 .sqlhistory
 .dolt/
+*.rar
+*.aria2
